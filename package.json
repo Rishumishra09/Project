@@ -1,0 +1,15 @@
+{
+  "name": "helpdesk-ticket-management-system",
+  "version": "1.1.0",
+  "description": "A beginner-friendly IT support ticket management system built with HTML, CSS, JavaScript, Node.js, Express and SQLite.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "express-session": "^1.19.0",
+    "sql.js": "^1.15.1"
+  }
+}
